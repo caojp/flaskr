@@ -1,2 +1,2 @@
 # flaskr
-flaskr tutorial source
+flask tutorial source
